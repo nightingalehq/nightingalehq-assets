@@ -1,0 +1,9 @@
+darkmode-body: rgb(50, 51, 61) #32333d - main dark body color
+darkmode-accent: rgb(255, 186, 73) #ffba49 - main dark accent color, for things buttons
+darkmode-bg: rgb(39, 39, 47) #27272f - main dark bg color, for things like field backgrounds
+darkmode-text: white #ffffff - main darkmode text color
+
+lightmode-body: white #ffffff - main light body color
+lightmode-accent: rgb(219, 102, 7) #db6607 - main light accent color, for things buttons
+lightmode-bg: rgb(235, 235, 235) #ebebeb - main light bg color, for things like field backgrounds
+lightmode-text: rgb(39, 39, 47) #27272f - main light text color (equal to darkmode body colour)
